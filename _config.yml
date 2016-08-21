@@ -1,0 +1,14 @@
+layout_spectrum: 0.8978487872518599
+typography_spectrum: 0.1088801953010261
+color:
+  brandStrength: 0.19943574792705476
+  lightness: 0.7956540517043322
+  saturation: 0.4267139460425824
+  rhythmicContrast: 0.8369123102165759
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: hhhb
